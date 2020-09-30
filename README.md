@@ -4,7 +4,10 @@
 
 ## :art: Layout
 
-<img src="" />
+<img src="https://github.com/viniciusbls9/clonepipefy/blob/master/src/assets/git/pipefy.png" width="100%" />
+<video>
+    <source src="https://github.com/viniciusbls9/clonepipefy/blob/master/src/assets/git/drag.mp4" type="video/mp4">
+</video>
 
 ## :hammer_and_wrench: Ferramentas
 
