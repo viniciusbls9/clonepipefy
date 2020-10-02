@@ -1,6 +1,6 @@
 # UI clone Pipefy
 
-<p>UI clone desenvolvido em ReactJS para aprimorar os conhecimentos de front-end. O clone conta também com a funcionalidade de Drag in Drop.</p>
+<p>UI clone desenvolvido em ReactJS para aprimorar os conhecimentos de front-end. O clone conta também com a funcionalidade de drag n' drop.</p>
 
 ## :art: Layout
 
